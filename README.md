@@ -17,11 +17,11 @@ A driving cycle is a predefined speed-time profile that represents typical drivi
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/c22aa1e6-0c4d-46d3-884f-62232a596a56" alt="CAD" width="300">
+      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/c22aa1e6-0c4d-46d3-884f-62232a596a56" alt="CAD" width="500">
       <p>Fig. 1 Developed Driving Cycle of Varanasi</p>
     </td>
     <td align="center">
-      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5e67638d-a769-40ee-9040-41ff5658e4e5" alt="Mesh" width="300">
+      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5e67638d-a769-40ee-9040-41ff5658e4e5" alt="Mesh" width="500">
       <p>Fig. 2 European Driving Cycle(EUDC)</p>
     </td>
   </tr>
@@ -29,21 +29,21 @@ A driving cycle is a predefined speed-time profile that represents typical drivi
 
   <tr>
     <td align="center">
-     <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5b54a614-3077-4090-b3a3-f1830486dce1" alt="Image 4" width="300">
+     <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5b54a614-3077-4090-b3a3-f1830486dce1" alt="Image 4" width="500">
       <p>Fig. 3 Comparison between the vehicular parameters of varanasi and standard driving cycle.</p>
     </td>
     <td align="center">
-      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/6df29df6-10ef-4142-96e5-c9a2a667bb5a" alt="Image 4" width="300">
+      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/6df29df6-10ef-4142-96e5-c9a2a667bb5a" alt="Image 4" width="500">
       <p>Fig. 4 Comparison between the emission parameters of varanasi and standard driving cycle.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-     <img src="  https://github.com/yatokai-3/Driving_Cycle/assets/111629438/1e3668e0-1b5b-4430-a075-68ac687d3141" alt="Image 4" width="300">
+     <img src="https://github.com/yatokai-3/Driving_Cycle/assets/111629438/1e3668e0-1b5b-4430-a075-68ac687d3141" alt="Image" width="500">
       <p>Fig. 3 Comparison between the vehicular parameters of varanasi and standard driving cycle.</p>
     </td>
     <td align="center">
-      <img src="https://github.com/yatokai-3/Driving_Cycle/assets/111629438/4c855fae-1aef-4a92-a933-7681c5f2ac5f" alt="Image 4" width="300">
+      <img src="https://github.com/yatokai-3/Driving_Cycle/assets/111629438/4c855fae-1aef-4a92-a933-7681c5f2ac5f" alt="Imagex" width="500">
       <p>Fig. 4 Comparison between the emission parameters of varanasi and standard driving cycle.</p>
     </td>
   </tr>
