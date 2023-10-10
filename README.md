@@ -43,7 +43,7 @@ A driving cycle is a predefined speed-time profile that represents typical drivi
       <p>Fig. 5 Comparison between parameter of original Driving cycle and Driving Cycle created .</p>
     </td>
     <td align="center">
-      <img src="https://github.com/yatokai-3/Driving_Cycle/assets/111629438/4c855fae-1aef-4a92-a933-7681c5f2ac5f" alt="Imagex" width="500">
+      <img src="https://github.com/yatokai-3/Driving_Cycle/assets/111629438/a16fa820-af8f-4f9a-a2d4-a1205ab826be" alt="Imagex" width="500">
       <p>Fig. 6 All parameters of all the 8 potential driving cycle.</p>
     </td>
   </tr>
